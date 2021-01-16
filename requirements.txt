@@ -1,0 +1,8 @@
+RPi.GPIO==0.7.0
+opencv-python==4.4.0.44
+opencv-python-headless==4.4.0.44
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603570489231/work
+scikit-learn==0.23.2
+sklearn==0.0
+socket
+
