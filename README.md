@@ -1,6 +1,6 @@
 # Warehouse Robot
 
-I present a Raspberry Pi robot that imitates the path navigation functionality of the modern warehouse robots used in various huge companies, such as Amazon. As it can be seen from the figure supplies, there are some marks, in the form of black lines, using which robots are able to orientate and travel around a warehouse. Thus, we provide a simplified model of the system where a robot is able to follow a path obtained using Dijkstra’s algorithm. With the help of socket programming (as we learnt from class), we managed to connect the robot to a device that is on the same network.
+I present a Raspberry Pi robot that imitates the path navigation functionality of the modern warehouse robots used in various huge companies, such as Amazon. As it can be seen from the figure supplies, there are some marks, in the form of black lines, using which robots are able to orientate and travel around a warehouse. Thus, I provide a simplified model of the system where a robot is able to follow a path obtained using Dijkstra’s algorithm. With the help of socket programming, I managed to connect the robot to a device that is on the same network.
 
 Simulation:
 
